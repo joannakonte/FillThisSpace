@@ -1,6 +1,6 @@
 # Fill This Space
 
-![Alt Text](https://media.giphy.com/media/wCS2mVkO8RIxYI2KHG/giphy.gif)
+<img src="https://media.giphy.com/media/wCS2mVkO8RIxYI2KHG/giphy.gif" />
 
 <!--- ### Table of Contents
 1. [Description](#Description)
