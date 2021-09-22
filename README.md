@@ -22,3 +22,8 @@ Our website *Fill This Space* provides resources for women to discover female ce
 * Translate our website to different languages
 * Create a logo
 
+### Authors
+* Ioanna Kontemeniotis
+* Eliza Spooner
+* Brielle Moran
+* Kendall Paucar
