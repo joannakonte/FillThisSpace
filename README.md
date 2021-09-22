@@ -1,7 +1,5 @@
 # Fill This Space
 
-![](./site_preview.gif)
-
 <!--- ### Table of Contents
 1. [Description](#Description)
 2. [Tech Stack](#TechStack)
